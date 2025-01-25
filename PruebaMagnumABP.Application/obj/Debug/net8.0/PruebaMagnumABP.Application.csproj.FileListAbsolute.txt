@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Application.deps.json
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Application.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Application.pdb
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Domain.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Domain.pdb
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMa.9938E6D6.Up2Date
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\refint\PruebaMagnumABP.Application.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.pdb
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\ref\PruebaMagnumABP.Application.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\bin\Debug\net8.0\PruebaMagnumABP.Application.runtimeconfig.json
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Application\obj\Debug\net8.0\PruebaMagnumABP.Application.genruntimeconfig.cache

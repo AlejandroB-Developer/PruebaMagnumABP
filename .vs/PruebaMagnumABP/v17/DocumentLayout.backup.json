@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\players\\command\\createnewplayercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\players\\command\\createnewplayercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\players\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\players\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|solutionrelative:pruebamagnumabp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|solutionrelative:pruebamagnumabp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}|PruebaMagnumABP.API\\PruebaMagnumABP.API.csproj|solutionrelative:pruebamagnumabp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.infrastructure\\persistence\\configurations\\roundconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|solutionrelative:pruebamagnumabp.infrastructure\\persistence\\configurations\\roundconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.infrastructure\\persistence\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|solutionrelative:pruebamagnumabp.infrastructure\\persistence\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.infrastructure\\persistence\\configurations\\playerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|solutionrelative:pruebamagnumabp.infrastructure\\persistence\\configurations\\playerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.infrastructure\\persistence\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|solutionrelative:pruebamagnumabp.infrastructure\\persistence\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61CA88A-72A5-485B-8F91-CAF44C6819C7}|PruebaMagnumABP.Infrastructure\\PruebaMagnumABP.Infrastructure.csproj|solutionrelative:pruebamagnumabp.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.domain\\entities\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|solutionrelative:pruebamagnumabp.domain\\entities\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\players\\mappings\\playersmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\players\\mappings\\playersmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\games\\mappings\\movesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\games\\mappings\\movesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\games\\mappings\\gamesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\games\\mappings\\gamesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|solutionrelative:pruebamagnumabp.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.domain\\entities\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|solutionrelative:pruebamagnumabp.domain\\entities\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}|PruebaMagnumABP.Domain\\PruebaMagnumABP.Domain.csproj|solutionrelative:pruebamagnumabp.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\games\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\games\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\features\\rounds\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\features\\rounds\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\common\\configuration\\gameserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\common\\configuration\\gameserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|c:\\users\\usuario\\source\\repos\\pruebamagnumabp\\pruebamagnumabp.application\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}|PruebaMagnumABP.Application\\PruebaMagnumABP.Application.csproj|solutionrelative:pruebamagnumabp.application\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateNewPlayerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Command\\CreateNewPlayerCommand.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Players\\Command\\CreateNewPlayerCommand.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Command\\CreateNewPlayerCommand.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Players\\Command\\CreateNewPlayerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:23:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoundConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\RoundConfiguration.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\RoundConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\RoundConfiguration.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\RoundConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:52:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:52:24.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\PlayerConfiguration.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\PlayerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\PlayerConfiguration.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Infrastructure\\Persistence\\Configurations\\PlayerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:52:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GamesMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Mappings\\GamesMapping.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Games\\Mappings\\GamesMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Mappings\\GamesMapping.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Games\\Mappings\\GamesMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:23:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayersMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Mappings\\PlayersMapping.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Players\\Mappings\\PlayersMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Mappings\\PlayersMapping.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Players\\Mappings\\PlayersMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:22:29.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Round.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Round.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Domain\\Entities\\Round.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Round.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Domain\\Entities\\Round.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:09:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\Program.cs",
+              "RelativeToolTip": "PruebaMagnumABP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:49:07.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\appsettings.json",
+              "RelativeToolTip": "PruebaMagnumABP.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T23:46:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.API\\appsettings.Development.json",
+              "RelativeToolTip": "PruebaMagnumABP.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T23:46:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Endpoints.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Players\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Players\\Endpoints.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Players\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:47:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Infrastructure\\Persistence\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\Persistence\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Infrastructure\\Persistence\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:25:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Domain\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Game.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Domain\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:09:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Move.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Domain\\Entities\\Move.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Move.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Domain\\Entities\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:09:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Domain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:09:09.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:47:15.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Common\\Configuration\\GameServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Common\\Configuration\\GameServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Common\\Configuration\\GameServiceConfiguration.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Common\\Configuration\\GameServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:52:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:52:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovesMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Mappings\\MovesMapping.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Games\\Mappings\\MovesMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Mappings\\MovesMapping.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Games\\Mappings\\MovesMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:23:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Services\\GameService.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:50:51.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Endpoints.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Games\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Games\\Endpoints.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Games\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:47:14.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Rounds\\Endpoints.cs",
+              "RelativeDocumentMoniker": "PruebaMagnumABP.Application\\Features\\Rounds\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaMagnumABP\\PruebaMagnumABP.Application\\Features\\Rounds\\Endpoints.cs",
+              "RelativeToolTip": "PruebaMagnumABP.Application\\Features\\Rounds\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:45:31.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

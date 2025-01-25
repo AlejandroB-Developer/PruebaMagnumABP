@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/u1RrwPMpabV9O4NpkM8tWIK0qndQfc3AO9q1KCubk8=",
+  "Source": "PruebaMagnumABP.API",
+  "BasePath": "_content/PruebaMagnumABP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

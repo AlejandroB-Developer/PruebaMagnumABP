@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{50619129-66B3-448B-B153-A742A1177632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{DCE2436E-D8BF-48F2-B942-A820B2BDA512}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{997F6C68-81FC-425D-96B9-06319E095298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMagnumABP.Application", "PruebaMagnumABP.Application\PruebaMagnumABP.Application.csproj", "{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMagnumABP.Domain", "PruebaMagnumABP.Domain\PruebaMagnumABP.Domain.csproj", "{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMagnumABP.Infrastructure", "PruebaMagnumABP.Infrastructure\PruebaMagnumABP.Infrastructure.csproj", "{D61CA88A-72A5-485B-8F91-CAF44C6819C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMagnumABP.API", "PruebaMagnumABP.API\PruebaMagnumABP.API.csproj", "{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaMagnumABP.UnitTests", "PruebaMagnumABP.UnitTests\PruebaMagnumABP.UnitTests.csproj", "{AC511D9B-71C5-4172-B9F8-3C3588CAE44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E2940E-40CF-41DE-8C9A-FABB8A8F022B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61CA88A-72A5-485B-8F91-CAF44C6819C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61CA88A-72A5-485B-8F91-CAF44C6819C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61CA88A-72A5-485B-8F91-CAF44C6819C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61CA88A-72A5-485B-8F91-CAF44C6819C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D09592C-6EAC-4DC2-8237-C9A8E1637D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC511D9B-71C5-4172-B9F8-3C3588CAE44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC511D9B-71C5-4172-B9F8-3C3588CAE44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC511D9B-71C5-4172-B9F8-3C3588CAE44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC511D9B-71C5-4172-B9F8-3C3588CAE44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A10D0A3-8BBB-4B8E-8E0A-5A8D10B1159D} = {50619129-66B3-448B-B153-A742A1177632}
+		{05E2940E-40CF-41DE-8C9A-FABB8A8F022B} = {50619129-66B3-448B-B153-A742A1177632}
+		{D61CA88A-72A5-485B-8F91-CAF44C6819C7} = {DCE2436E-D8BF-48F2-B942-A820B2BDA512}
+		{0D09592C-6EAC-4DC2-8237-C9A8E1637D60} = {997F6C68-81FC-425D-96B9-06319E095298}
+	EndGlobalSection
+EndGlobal

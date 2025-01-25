@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\bin\Debug\net8.0\PruebaMagnumABP.Domain.deps.json
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\bin\Debug\net8.0\PruebaMagnumABP.Domain.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\bin\Debug\net8.0\PruebaMagnumABP.Domain.pdb
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\refint\PruebaMagnumABP.Domain.dll
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\PruebaMagnumABP.Domain.pdb
+C:\Users\Usuario\source\repos\PruebaMagnumABP\PruebaMagnumABP.Domain\obj\Debug\net8.0\ref\PruebaMagnumABP.Domain.dll
